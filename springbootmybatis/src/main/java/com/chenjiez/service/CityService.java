@@ -6,7 +6,7 @@ import com.chenjiez.model.City;
 /**
  * 城市业务逻辑接口类
  *
- * Created by bysocket on 07/02/2017.
+ * Created by zcj on 07/02/2017.
  */
 public interface CityService {
 
